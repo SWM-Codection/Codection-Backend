@@ -1,0 +1,9 @@
+[submodule "Codection-Service-Discovery"]
+	path = Codection-Service-Discovery
+	url = https://github.com/SWM-Codection/Codection-Service-Discovery
+[submodule "Codection-Apigateway-Service"]
+	path = Codection-Apigateway-Service
+	url = https://github.com/SWM-Codection/Codection-Apigateway-Service
+[submodule "User-Service"]
+	path = User-Service
+	url = https://github.com/SWM-Codection/User-Service
