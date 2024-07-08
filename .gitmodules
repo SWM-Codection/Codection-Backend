@@ -7,3 +7,6 @@
 [submodule "User-Service"]
 	path = User-Service
 	url = https://github.com/SWM-Codection/User-Service
+[submodule "Codection-Review-Service"]
+	path = Codection-Review-Service
+	url = https://github.com/SWM-Codection/Codection-Review-Service.git
